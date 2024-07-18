@@ -1,0 +1,148 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1 {
+  border-style: ridge;
+  border-radius: 30px;
+  background-color: darkred;
+  padding: 35px;
+  margin-bottom: 55px;
+}
+
+h2 {
+  margin-top: 80px;
+}
+
+.form-fields {
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  width: 350px;
+  margin: auto;
+  margin-bottom: 5px;
+  padding: 10px;
+  background-color: whitesmoke;
+  border-radius: 30px;
+}
+
+.displayOne-page {
+  padding: 35px;
+  text-align: center;
+  border-style: ridge;
+  border-radius: 30px;
+  border-color: white;
+  background-color: darkblue;
+}
+
+.displayOne-header {
+  margin: auto;
+  padding: 20px;
+}
+
+.submit-btn {
+  background-color: green;
+  margin: 5px;
+  padding: 15px;
+  width: 120px;
+  border-radius: 30px;
+}
+
+.delete-btn {
+  background-color: red;
+  padding: 8px;
+  margin: 10px;
+  border-radius: 30px;
+}
+
+.logout-btn {
+  background-color: red;
+  padding: 8px;
+  margin: 10px;
+  border-radius: 30px;
+}
+
+.edit-btn {
+  background-color: green;
+  padding: 8px;
+  margin: 10px;
+  width: 80px;
+  border-radius: 30px;
+}
+
+.home-btn {
+  background-color: blue;
+  padding: 8px;
+  margin: 10px;
+  width: 80px;
+  border-radius: 30px;
+}
+
+.admit-btn {
+  background-color: blue;
+  padding: 8px;
+  margin: 10px;
+  border-radius: 30px;
+}
+
+.details-btn {
+  background-color: goldenrod;
+  padding: 8px;
+  margin: 10px;
+  border-radius: 30px;
+}
+
+.update-rec-btn {
+  background-color: green;
+  padding: 8px;
+  margin: 10px;
+  width: 80px;
+  border-radius: 30px;
+}
+
+.errors {
+  color: red;
+}
+
+.display-all-bx {
+  border-style: ridge;
+  border-radius: 30px;
+  padding: 15px;
+  margin: 15px;
+  background-color: darkblue;
+}
+
+.update-form {
+  border-style: ridge;
+  border-radius: 30px;
+  padding: 15px;
+  margin: 10px;
+  background-color: darkblue;
+}
+
+.admit-form {
+  border-style: ridge;
+  border-radius: 30px;
+  padding: 15px;
+  margin: 10px;
+  background-color: darkblue;
+}
+
+.register-form {
+  border-style: ridge;
+  border-radius: 30px;
+  padding: 15px;
+  margin: 10px;
+  background-color: darkblue;
+}
+
+.login-form {
+  border-style: ridge;
+  border-radius: 30px;
+  padding: 15px;
+  margin: 10px;
+  background-color: darkblue;
+}

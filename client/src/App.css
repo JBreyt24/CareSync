@@ -35,7 +35,7 @@ h2 {
   border-style: ridge;
   border-radius: 30px;
   border-color: white;
-  background-color: darkblue;
+  background-color: darkred;
 }
 
 .displayOne-header {
@@ -44,7 +44,7 @@ h2 {
 }
 
 .submit-btn {
-  background-color: green;
+  background-color: darkred;
   margin: 5px;
   padding: 15px;
   width: 120px;
@@ -52,21 +52,21 @@ h2 {
 }
 
 .delete-btn {
-  background-color: red;
+  background-color: darkred;
   padding: 8px;
   margin: 10px;
   border-radius: 30px;
 }
 
 .logout-btn {
-  background-color: red;
+  background-color: darkred;
   padding: 8px;
   margin: 10px;
   border-radius: 30px;
 }
 
 .edit-btn {
-  background-color: green;
+  background-color: darkred;
   padding: 8px;
   margin: 10px;
   width: 80px;
@@ -74,7 +74,7 @@ h2 {
 }
 
 .home-btn {
-  background-color: blue;
+  background-color: darkred;
   padding: 8px;
   margin: 10px;
   width: 80px;
@@ -82,21 +82,21 @@ h2 {
 }
 
 .admit-btn {
-  background-color: blue;
+  background-color: darkred;
   padding: 8px;
   margin: 10px;
   border-radius: 30px;
 }
 
 .details-btn {
-  background-color: goldenrod;
+  background-color: darkred;
   padding: 8px;
   margin: 10px;
   border-radius: 30px;
 }
 
 .update-rec-btn {
-  background-color: green;
+  background-color: darkred;
   padding: 8px;
   margin: 10px;
   width: 80px;
@@ -112,7 +112,7 @@ h2 {
   border-radius: 30px;
   padding: 15px;
   margin: 15px;
-  background-color: darkblue;
+  background-color: darkred;
 }
 
 .update-form {
@@ -120,7 +120,7 @@ h2 {
   border-radius: 30px;
   padding: 15px;
   margin: 10px;
-  background-color: darkblue;
+  background-color: darkred;
 }
 
 .admit-form {
@@ -128,7 +128,7 @@ h2 {
   border-radius: 30px;
   padding: 15px;
   margin: 10px;
-  background-color: darkblue;
+  background-color: darkred;
 }
 
 .register-form {
@@ -136,7 +136,7 @@ h2 {
   border-radius: 30px;
   padding: 15px;
   margin: 10px;
-  background-color: darkblue;
+  background-color: darkred;
 }
 
 .login-form {
@@ -144,5 +144,5 @@ h2 {
   border-radius: 30px;
   padding: 15px;
   margin: 10px;
-  background-color: darkblue;
+  background-color: darkred;
 }

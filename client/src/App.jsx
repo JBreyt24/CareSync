@@ -17,7 +17,7 @@ function App() {
   
   return (
     <>
-    <h1>Hospital Manager</h1>
+    <h1>CareSync</h1>
     <BrowserRouter>
         <Routes>
           <Route path='/' element={<Register />} />
